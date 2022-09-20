@@ -21,21 +21,15 @@
       "id": 4
     },
     {
-      "title": "I created this one",
-      "description": "This is my stream with an edit",
-      "userId": "108106751029563662482",
-      "id": 5
-    },
-    {
-      "title": "Programmatic navigation",
-      "description": "testing the new routing history",
-      "userId": "108106751029563662482",
-      "id": 6
-    },
-    {
       "title": "New form component edited",
       "description": "this is testing the new refactor",
       "id": 7
+    },
+    {
+      "title": "A beutiful stream",
+      "description": "look at this one!",
+      "userId": "108106751029563662482",
+      "id": 8
     }
   ]
 }
